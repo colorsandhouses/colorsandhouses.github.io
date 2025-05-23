@@ -12,7 +12,7 @@ body {
     background-repeat: repeat; /* Controla si la imagen se repite (opcional) */
     background-size: cover; /* Controla el tamaño de la imagen (opcional) */
     background-position: center; /* Controla la posición de la imagen (opcional) */
-    background-attachment: fixed
+    background-attachment: scroll;
   }
 
 #loader-wrapper {

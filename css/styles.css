@@ -10,11 +10,11 @@
     font-family: "Poppins", sans-serif;
     font-weight: 100;
     font-style: normal;
-    background-image: url('./fondo/4.jpg'); /* Reemplaza con la ruta real de tu imagen */
+    background-image: url('https://coloresycasas.com/css/fondo/4.jpg'); /* Reemplaza con la ruta real de tu imagen */
     background-repeat: repeat; /* Controla si la imagen se repite (opcional) */
     background-size: cover; /* Controla el tamaño de la imagen (opcional) */
     background-position: center; /* Controla la posición de la imagen (opcional) */
-    background-attachment: fixed
+    background-attachment: scroll;
   }
   #loader-wrapper {
     position: fixed;
