@@ -328,13 +328,14 @@
         text-decoration: none;
     }
     .contacto a {
-        color: #a08323;
+        color: #a08840;
         text-decoration: none;
         margin-bottom: 10px;
         transition: color 0.3s ease-in-out;
+        background-color: rgba(0, 0, 0, 0.5);
     }
     .contacto a:hover {
-        color: #706f6f;
+        color: #da7c03;
     }
     @media (max-width: 765px) {
         .direccion-container{
